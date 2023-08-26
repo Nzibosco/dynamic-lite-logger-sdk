@@ -1,4 +1,4 @@
 package com.bosco.logging.exceptions;
 
-public class LoggingExceptions {
+public class LoggingException {
 }
